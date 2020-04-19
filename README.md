@@ -1,3 +1,5 @@
+Repository archived, instead see https://github.com/jsekamane/wiki-cv
+
 # Accrediting Authors of Wikipedia Without Concurrently Encouraging Deceitful Behaviour
 
 Articles on Wikipedia are written and continuously maintained by vast crowds of dedicated authors. Authors whose primary motivation appear to be altruistic, even cathartic. Whilst the platform meticulously tracks every edit (full transparency), the contribution of each individual author is often lost in the sheer volume of information (information overload). 
